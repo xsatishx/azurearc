@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Gitops demo is currently in progress !!
+          value: Gitops automation demo is in progress !!
