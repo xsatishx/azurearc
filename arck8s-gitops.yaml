@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Gitops Demo is on its way for Y3 Technologies demo to Rahul on 23-Nov-2022!!!
+          value: Gitops Demo is on its way for Y3 Technologies demo to with Satish on 30-Nov-2022!!!
