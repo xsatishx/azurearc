@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Gitops Demo is on its way for Y3 Technologies demo to with Dr.YAP & Miss Jing on 30/11/2022 : 12.32
+          value: Gitops Demo is on its way for Y3 Technologies demo to with Dr.YAP & Miss Jing
