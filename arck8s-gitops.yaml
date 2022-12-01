@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Gitops Demo on 1st December - INDONESIA!!!! 
+          value: GitOps Demo on 1st December - Telkom INDONESIA!!!! 
