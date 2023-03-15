@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: GitOps Demo on 2nd December -  Telkom SIGMA INDONESIA!!!! 
+          value: GitOps on Azure Arc with AKS on HCI!!!! 
