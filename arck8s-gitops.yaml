@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Thank you Telkom Sigma - DEMO 16/03!!!! 
+          value: Thank you 
